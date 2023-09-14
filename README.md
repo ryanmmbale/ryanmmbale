@@ -1,7 +1,6 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate frontend developer from Nairobi Kenya</h3>
+<h2 align="center">Hi 👋, I'm Ryan</h2>
+<h4 align="center">A passionate frontend developer from Nairobi Kenya</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryannthegr8&label=Profile%20views&color=0e75b6&style=flat" alt="ryannthegr8" /> </p>
 
@@ -9,9 +8,7 @@
 
 - 🔭 I’m currently working on **Crescent creatives**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ryannthegr8](https://github.com/ryannthegr8)
-
-- 📝 I regularly write articles on [https://hashnode.com/@coderRyan](https://hashnode.com/@coderRyan)
+- 📝 I write my blog articles articles on [https://hashnode.com/@coderRyan](https://hashnode.com/@coderRyan)
 
 - 📫 How to reach me **mmbaleryan@gmail.com**
 
