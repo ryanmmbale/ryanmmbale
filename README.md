@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi 👋, I'm Ryan</h2>
 <h4 align="center">A passionate frontend developer from Nairobi Kenya</h4>
-<img width="470%" align="left" src="https://github-readme-stats.vercel.app/api?username=ryannthegr8&show_icons=true&theme=radical" />
+<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=ryannthegr8&show_icons=true&theme=radical" />
 <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryannthegr8&show_icons=true&locale=en&layout=compact" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryannthegr8&label=Profile%20views&color=0e75b6&style=flat" alt="ryannthegr8" /> </p>
