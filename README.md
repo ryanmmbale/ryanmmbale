@@ -1,12 +1,18 @@
 
 <h2 align="center">Hi 👋, I'm Ryan</h2>
-<h4 align="center">A passionate frontend developer from Nairobi Kenya</h4>
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=ryannthegr8&show_icons=true&theme=radical" />
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryannthegr8&show_icons=true&locale=en&layout=compact" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryannthegr8&label=Profile%20views&color=0e75b6&style=flat" alt="ryannthegr8" /></p>
+
+### Personal Statement:
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryannthegr8&label=Profile%20views&color=0e75b6&style=flat" alt="ryannthegr8" /> </p>
+<p align="center">A passionate frontend developer from Nairobi Kenya</p>
 
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryannthegr8&show_icons=true&locale=en&layout=compact" />
+</p>
+
+
+<h2 ></h2>
 
 ### My Tech Stack:
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -31,6 +37,7 @@
 - 📝 I write my blog articles articles on [https://hashnode.com/@coderRyan](https://hashnode.com/@coderRyan)
 
 - 📫 How to reach me **mmbaleryan@gmail.com**
+<h2 ></h2>
 
 ### Connect with me
 <p align="left">
@@ -43,7 +50,6 @@
 
 
 
-
-
+<!-- <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=ryannthegr8&show_icons=true&theme=radical" /> -->
 
 
