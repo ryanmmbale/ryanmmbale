@@ -5,7 +5,7 @@
 ### Personal Statement:
 
 
-<p align="center">A passionate frontend developer from Nairobi Kenya</p>
+<p align="center">A passionate Software Engineer from Nairobi Kenya</p>
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryannthegr8&show_icons=true&locale=en&layout=compact" />
