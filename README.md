@@ -3,7 +3,9 @@
 
 ### Personal Statement:
 
-<p align="center">A passionate full-stack developer from Nairobi Kenya. I am a curious developer dedicated to delivering software solutions with advanced design patterns with unparalleled finesse.</p>
+A passionate full-stack developer from Nairobi Kenya. I am a curious developer dedicated to delivering software solutions with advanced design patterns with unparalleled finesse.
+
+<p align="center"></p>
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryannthegr8&show_icons=true&locale=en&layout=compact" />
