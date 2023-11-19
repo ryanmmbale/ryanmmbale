@@ -3,7 +3,7 @@
 
 ### Personal Statement:
 
-A passionate full-stack developer from Nairobi Kenya. I am a curious developer dedicated to delivering software solutions with advanced design patterns with unparalleled finesse.
+A passionate full-stack developer from Nairobi Kenya. I am a curious developer dedicated to delivering software solutions with advanced design patterns and unparalleled finesse.
 
 <p align="center"></p>
 
@@ -31,8 +31,6 @@ A passionate full-stack developer from Nairobi Kenya. I am a curious developer d
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- 🔭 I’m currently working on **Crescent creatives**
 
 - 📝 I write my blog articles articles on [https://hashnode.com/@coderRyan](https://hashnode.com/@coderRyan)
 
