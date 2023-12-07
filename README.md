@@ -38,6 +38,7 @@ A passionate full-stack developer from Nairobi Kenya. I am a curious developer d
 <h2 ></h2>
 
 ### Connect with me
+How to reach me:
 
 <p align="left">
 <a href="https://twitter.com/coderryan_m" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderryan_m" height="30" width="40" /></a>
