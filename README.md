@@ -8,7 +8,7 @@ A passionate full-stack developer from Nairobi Kenya. I am a curious developer d
 <p align="center"></p>
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryannmmbale&show_icons=true&locale=en&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanmmbale&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <h2 ></h2>
