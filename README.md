@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Ryan</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryannthegr8&label=Profile%20views&color=0e75b6&style=flat" alt="ryannthegr8" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanmmbale&label=Profile%20views&color=0e75b6&style=flat" alt="ryannthegr8" /></p>
 
 ### Personal Statement:
 
@@ -8,7 +8,7 @@ A passionate full-stack developer from Nairobi Kenya. I am a curious developer d
 <p align="center"></p>
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryannthegr8&show_icons=true&locale=en&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryannmmbale&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <h2 ></h2>
