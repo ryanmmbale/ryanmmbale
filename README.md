@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.pinimg.com/originals/8c/62/13/8c6213450b6a96294a7d0d4448f9127b.gif" width="900" height="350"></p>
+<p align="center"> <img src="https://i.pinimg.com/originals/8c/62/13/8c6213450b6a96294a7d0d4448f9127b.gif" width="900" height="200" style="Border-radius: 2rem;"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanmmbale&label=Profile%20views&color=0e75b6&style=flat" alt="ryannthegr8" /></p>
 
 ### Personal Statement
