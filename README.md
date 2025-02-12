@@ -1,23 +1,17 @@
-
 <p align="center"> <img src="https://i.pinimg.com/originals/47/09/75/470975f6255df5edfc7c157d6f13ed20.gif" width="900" height="350"></p>
-<h2 align="center">Hi 👋, I'm Ryan</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanmmbale&label=Profile%20views&color=0e75b6&style=flat" alt="ryannthegr8" /></p>
 
-### Personal Statement:
+### Personal Statement
 
 A passionate full-stack developer from Nairobi Kenya. I am a curious developer dedicated to delivering software solutions with advanced design patterns and unparalleled finesse.
-
-<p align="center"></p>
-
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanmmbale&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<h2 ></h2>
 
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanmmbale&show_icons=true&locale=en&layout=compact" />
+</p>
 
 ### Tools
 
