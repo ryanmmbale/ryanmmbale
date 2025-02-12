@@ -1,4 +1,5 @@
-![Funny GIF](https://i.pinimg.com/originals/93/d5/6a/93d56ada0451bf165e24ed6ff64e9147.gif)
+width="400"
+![Funny GIF](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
 
 <h2 align="center">Hi 👋, I'm Ryan</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanmmbale&label=Profile%20views&color=0e75b6&style=flat" alt="ryannthegr8" /></p>
