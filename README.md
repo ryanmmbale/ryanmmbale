@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ryanmmbale.ryanmmbale" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wanna+get+some+sick+Code!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Kenya Nairobi</h3>
@@ -39,7 +39,7 @@
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=javascript,html,css,c,mysql,typescript,pascal" />
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,express,firebase,mongodb,nextjs,flask,figma,tailwind,r" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,express,firebase,mongodb,nextjs,flask,figma,tailwind,r" /><br>
 </div>
 
 <br/>
