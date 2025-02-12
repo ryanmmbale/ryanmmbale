@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://w7.pngwing.com/pngs/643/650/png-transparent-matrix-matrix-code-control-technology-code-system-information-coding-thumbnail.png" width="700" height="300" style="Border-radius: 2rem;"></p>
+<p align="center"> <img src="https://i.pinimg.com/736x/5f/39/21/5f39218b535eaac5b4269fdad4244985.jpg" width="700" height="300" style="Border-radius: 2rem;"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanmmbale&label=Profile%20views&color=0e75b6&style=flat" alt="ryannthegr8" /></p>
 
 ### Personal Statement
