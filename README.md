@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="600" height="200"></p>
+<p align="center"> <img src="https://i.pinimg.com/originals/47/09/75/470975f6255df5edfc7c157d6f13ed20.gif" width="600" height="200"></p>
 <h2 align="center">Hi 👋, I'm Ryan</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanmmbale&label=Profile%20views&color=0e75b6&style=flat" alt="ryannthegr8" /></p>
 
