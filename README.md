@@ -9,14 +9,8 @@
 <br/>
 
 <div align="center">
- 
- 
- 🌱 I’m currently learning **Docker, Next, js, Laravel**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ryanmmbale/ryanmmbale/issues)**
-
+ 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ryanmmbale/ryanmmbale/issues)**
 ⚡ Fun fact **The first computer bug was a real bug! 🪲**
-
  </div>
  
 <div align="center"> 
