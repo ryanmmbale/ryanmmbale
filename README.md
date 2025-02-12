@@ -37,9 +37,9 @@
 <br/>
 <div align="center">
     <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,c,MySQL,typescript,pascal" />
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,express,firebase,mongodb,,nextjs,flask,figma,tailwind,r" /><br>
 </div>
 
 <br/>
