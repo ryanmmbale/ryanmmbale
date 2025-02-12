@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Docker, Next,js, Laravel**
+ 🌱 I’m currently learning **Docker, Next, js, Laravel**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ryanmmbale/ryanmmbale/issues)**
 
@@ -37,9 +37,9 @@
 <br/>
 <div align="center">
     <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,c,MySQL,typescript,pascal" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,c,mysql,typescript,pascal" />
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,express,firebase,mongodb,,nextjs,flask,figma,tailwind,r" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,express,firebase,mongodb,nextjs,flask,figma,tailwind,r" /><br>
 </div>
 
 <br/>
