@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ryanmmbale.ryanmmbale" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wanna+get+some+sick+Code!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Pssss,+Wanna+get+some+sick+Code?;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Kenya Nairobi</h3>
