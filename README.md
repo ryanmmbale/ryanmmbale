@@ -8,7 +8,7 @@
 
 <div align="center">
     
- 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ryanmmbale/ryanmmbale/issues)**
+ 💬 Ask me about **Frontend,Backend, Frameworks... or anything [here](https://github.com/ryanmmbale/ryanmmbale/issues)**
     
 ⚡ Fun fact **The first computer bug was a real bug! 🪲**
  </div>
