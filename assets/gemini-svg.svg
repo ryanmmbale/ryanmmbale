@@ -1,0 +1,31 @@
+<svg viewBox="0 0 920 205" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ryan Mmbale Minimalist Product Engineer Banner">
+  <defs>
+    <linearGradient id="minGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#11131a" />
+      <stop offset="100%" stop-color="#1b1528" />
+    </linearGradient>
+  </defs>
+  <rect width="920" height="205" rx="12" fill="url(#minGrad)" />
+
+  <!-- Subtle Architectural Accent Line -->
+  <line x1="44" y1="42" x2="108" y2="42" stroke="#a855f7" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="x2" values="84;132;84" dur="4s" repeatCount="indefinite" />
+  </line>
+
+  <text x="44" y="88" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, sans-serif" font-size="38" font-weight="700" letter-spacing="-0.6">
+    Ryan Mmbale
+  </text>
+  <text x="44" y="122" fill="#c4b5fd" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, sans-serif" font-size="16" font-weight="500">
+    Product-minded Full-Stack Engineer — shipping clean web & mobile experiences.
+  </text>
+  <text x="44" y="164" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">
+    LARAVEL • LIVEWIRE • ALPINE • TAILWIND • NEXT.JS • FLUTTER • DOCKER
+  </text>
+
+  <!-- Minimalist Geometric Orbit Motif on Right -->
+  <circle cx="810" cy="102" r="46" fill="none" stroke="#a855f7" stroke-opacity="0.25" stroke-width="1.5" />
+  <circle cx="810" cy="102" r="24" fill="none" stroke="#c084fc" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="5 5" />
+  <circle cx="810" cy="56" r="4.5" fill="#c084fc">
+    <animateTransform attributeName="transform" type="rotate" from="0 810 102" to="360 810 102" dur="12s" repeatCount="indefinite" />
+  </circle>
+</svg>

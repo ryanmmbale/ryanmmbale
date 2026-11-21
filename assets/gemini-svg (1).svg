@@ -1,0 +1,34 @@
+<svg viewBox="0 0 920 245" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ryan Mmbale Interactive Terminal Hero">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b101b" />
+      <stop offset="100%" stop-color="#060911" />
+    </linearGradient>
+  </defs>
+  <rect width="920" height="245" rx="12" fill="url(#termBg)" />
+
+  <!-- Window Title Bar -->
+  <rect x="0" y="0" width="920" height="34" rx="12" fill="#131a29" />
+  <rect x="0" y="18" width="920" height="16" fill="#131a29" />
+  <circle cx="22" cy="17" r="5.5" fill="#ff5f56" />
+  <circle cx="42" cy="17" r="5.5" fill="#ffbd2e" />
+  <circle cx="62" cy="17" r="5.5" fill="#27c93f" />
+  <text x="460" y="21" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, monospace" font-size="12">
+    ryan@mmbale-dev: ~/profile — zsh
+  </text>
+
+  <!-- Command Lines -->
+  <text x="28" y="64" fill="#c084fc" font-family="ui-monospace, monospace" font-size="13" font-weight="700">ryan@dev:~$ <tspan fill="#f8fafc" font-weight="400">whoami --role</tspan></text>
+  <text x="28" y="86" fill="#cbd5e1" font-family="ui-monospace, monospace" font-size="13">Full-Stack Developer — Web, Mobile & APIs (Nairobi / Remote)</text>
+
+  <text x="28" y="118" fill="#c084fc" font-family="ui-monospace, monospace" font-size="13" font-weight="700">ryan@dev:~$ <tspan fill="#f8fafc" font-weight="400">cat stack.config.json</tspan></text>
+  <text x="28" y="140" fill="#d8b4fe" font-family="ui-monospace, monospace" font-size="12.5">{ "web": ["Laravel", "Next.js", "React", "Tailwind"], "mobile": ["Flutter"], "ops": ["Docker", "MySQL", "Postgres"] }</text>
+
+  <text x="28" y="172" fill="#c084fc" font-family="ui-monospace, monospace" font-size="13" font-weight="700">ryan@dev:~$ <tspan fill="#f8fafc" font-weight="400">git status --collab</tspan></text>
+  <text x="28" y="194" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12.5">Ready for interesting engineering problems, open-source & product builds.</text>
+
+  <!-- Blinking Block Cursor -->
+  <rect x="28" y="208" width="9" height="16" fill="#a855f7">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+</svg>
